@@ -2,7 +2,7 @@
 ## Your Name
 [Gizem Arslan]
 ## Netlify Status Badge
-(https://resilient-custard-dd439e.netlify.app)
+(https://melodic-daifuku-2c9f54.netlify.app)
 ## Description
 This project, "About Me," serves as the final project for my web page developer class, encompassing the skills acquired throughout the semester. The purpose of this website is to provide a comprehensive overview of my background, skills, and achievements. Each section of the project reflects the following skills learned:
 - **Home Section:** Incorporates HTML and CSS for structuring and styling the introductory content.
