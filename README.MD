@@ -6,7 +6,7 @@
 ## Description
 This project, "About Me," serves as the final project for my web page developer class, encompassing the skills acquired throughout the semester. The purpose of this website is to provide a comprehensive overview of my background, skills, and achievements. Each section of the project reflects the following skills learned:
 - **Home Section:** Incorporates HTML and CSS for structuring and styling the introductory content.
-- **My Portfolio Section:** Utilizes JavaScript and additional CSS for creating an interactive portfolio showcasing my work.
+- **My Portfolio Section:** Utilizes HTML and additional CSS for creating an interactive portfolio showcasing my work.
 - **My Services Section:** Implements advanced CSS techniques to present information about the services I offer.
 - **Contact Me Section:** Integrates Google Drive API to securely store contact information.
 ## Color Scheme
